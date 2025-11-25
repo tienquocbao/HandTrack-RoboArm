@@ -2,8 +2,8 @@
 
 > A 4-DOF robotic arm controlled by **hand tracking** (MediaPipe), with **PyBullet simulation** and **real hardware control via ESP32 + PCA9685**.
 
-![DEMO MOVE ROBOT ARM](assets\demo_left.png)
-![DEMO ROBOT's GRIPPER](assets\demo_grip.png)
+![DEMO MOVE ROBOT ARM](assets/demo_left.png)
+![DEMO ROBOT's GRIPPER](assets/demo_grip.png)
 
 ---
 
